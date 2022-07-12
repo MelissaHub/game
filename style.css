@@ -17,10 +17,10 @@ body {
 .container { 
     width: 800px;
     max-width: 60%;
-    background-color: rgba(74, 151, 172, 0.462);
+    background-color: rgba(146, 219, 240, 0.462);
     padding:10px;
     border-radius: 5px;
-    box-shadow: 0 0 10px 2px
+    box-shadow: 0 0 10px 2px rgb(196, 191, 191)
 }
 
 
