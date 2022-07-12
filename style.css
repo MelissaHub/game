@@ -40,6 +40,16 @@ body {
     outline: none;
     
 }
+.btn1 { 
+    background-color: hsl(288, 32%, 56%);
+    border: 1px solid hsl(289, 23%, 30%);
+    border-radius: 5px;
+    padding: 5px 10px;
+    color: white;
+    outline: none;
+    box-shadow: 0 0 10px 2px rgb(196, 191, 191)
+    
+}
 
 .btn:hover {
    background-color: rgb(35, 108, 100);
